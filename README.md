@@ -1,2 +1,4 @@
 # norm.dist
-Functions and sample codes for generating random samples from the standard normal distribution
+functions.f90 : Source file of functions for generating random samples from the standard normal distribution
+
+main.f90 : Samples file for showing how to use the functions.
